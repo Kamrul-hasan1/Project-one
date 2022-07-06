@@ -2,3 +2,40 @@ body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
 }
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    
+}
+.top-banner{
+    background-image: url(images/main-banner.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    
+   
+}
+.top-banner-content{
+    text-align: center;
+    color: white;
+    padding-top: 100px;
+    padding-bottom: 200px;
+    
+}
+
+.top-banner-content span{
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 100px;
+}
+.btn-link{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 10px 35px;
+}
+.top-banner-content p{
+    font-size: 20px;
+}
+
