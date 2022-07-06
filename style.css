@@ -42,7 +42,7 @@ body{
     margin-top: 100px;
 
 }
-.donate-today span{
+.heading-text{
     font-size: 50px;
     color: black;
     font-weight: bold;
@@ -51,7 +51,7 @@ body{
    
     
 }
-.donate-today p{
+.pera-text{
     font-size: 20px;
     color: black;
     font-weight: bold;
@@ -94,3 +94,83 @@ body{
     padding: 10px 35px;
     
 }
+#our-donate-plan{
+    padding-right: 320px;
+}
+.shelter{
+    display: flex;
+    margin: 0 auto;
+    
+    
+}
+
+.food{
+    background-color: rgba(188, 157, 157, 0.249);
+    margin: 30px 10px;
+    padding: 0px 30px;
+    
+}
+.family{
+    background-color: rgba(205, 157, 165, 0.488);
+    margin: 30px 10px;
+    padding: 0px 30px;
+
+}
+
+.edu{
+   background-color: rgba(198, 169, 126, 0.5);
+   margin: 30px 10px;
+   padding: 0px 30px;
+}
+.gallery-flex{
+    display: flex;
+    
+}
+.gallery-flex img{
+    width: 300px;
+    padding: 50px;
+}
+#our{
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+#get-update{
+    padding-right: 320px;
+}
+.input-bg{
+    text-align: center;
+    width: 600px;
+    height: 100px;
+    background-color: blanchedalmond;
+    margin: 0 auto;
+}
+.input-bg input{
+    padding: 10px;
+    margin-top: 50px;
+    border: none;
+    outline: none;
+    font-size: 20px;
+}
+.input-bg a{
+    text-decoration: none;
+    background-color: tomato;
+    padding:7px ;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+footer{
+    background-color: black;
+    color: white;
+    height: 50%;
+}
+.footer-heading{
+    text-align: center;
+    color: tomato;
+    font:  sans-serif;
+}
+.footer-pera{
+    text-align: center;
+}
+
