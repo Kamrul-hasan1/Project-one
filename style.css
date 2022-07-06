@@ -38,4 +38,59 @@ body{
 .top-banner-content p{
     font-size: 20px;
 }
+.donate-today{
+    margin-top: 100px;
 
+}
+.donate-today span{
+    font-size: 50px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding-left: 400px;
+   
+    
+}
+.donate-today p{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+}
+.flex-box{
+    display: flex;
+    padding-left:200px;
+}
+.amount{
+    padding: 30px;
+    margin: 0px 10px;
+    justify-content: center;
+    background-color: rgba(200, 165, 159, 0.251);
+}
+#color-amount{
+    border: 3px solid rgb(235, 63, 32);
+}
+.custom-amount{
+    text-align: center;
+    margin-top: 100px;
+}
+.custom-amount input{
+    width: 500px;
+    outline: none;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: 1px solid black;
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 20px;
+}
+.custom-amount a{
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+    background-color: tomato;
+    border-radius: 5px;
+    padding: 10px 35px;
+    
+}
